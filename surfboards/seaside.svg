@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g id="whip">
+    </g>
+    <g>
+        <path d="M305.927,168.987C500.892,323.795 507.832,594.971 507.518,778.971C507.48,801.277 508.136,1146.42 387.566,1423.19C383.566,1423.19 348.655,1423.13 304.7,1385.43C257.277,1423.63 227.296,1419.15 220.488,1418.34C101.479,1154.58 103.088,801.976 102.899,775.935C101.561,591.94 125.452,289.006 305.927,168.987Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        <g transform="matrix(0.957738,0,0,0.964539,13.963,22.4185)">
+            <path d="M305.927,168.987C500.892,323.795 507.832,594.971 507.518,778.971C507.48,801.277 508.136,1146.42 387.566,1423.19C383.566,1423.19 348.655,1423.13 304.7,1385.43C257.277,1423.63 227.296,1419.15 220.488,1418.34C101.479,1154.58 103.088,801.976 102.899,775.935C101.561,591.94 125.452,289.006 305.927,168.987Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        </g>
+        <path d="M452.789,467.562L396.661,509.46L395.211,517.201L441.496,504.068L473.618,597.931L478.72,585.361L452.789,467.562Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M419.14,514.657L413.694,527.217L426.655,524.699L431.698,512.998L419.14,514.657Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M413.171,532.202L405.977,546.004L419.02,544.309L426.16,529.882L413.171,532.202Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M439.458,511.062L435.188,523.008L441.52,539.689L446.759,528.904L439.458,511.062Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M433.439,531.185L439.399,546.374L434.554,559.41L429.061,542.908L433.439,531.185Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M450.452,541.424L445.458,552.399L451.851,568.868L456.696,557.572L450.452,541.424Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M443.83,559.939L449.551,575.613L445.168,589.68L439.132,571.524L443.83,559.939Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M284.187,1038.36L323.613,1038.54L322.925,1073.88L305.132,1083.23L284.771,1073.53L284.187,1038.36Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M304.079,1359.4L305.714,1357.63L307.203,1359.52L306.325,1083L305.018,1084.49L302.97,1082.73L304.079,1359.4Z" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M305.018,1084.49L305.829,1355.84" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <path d="M286.53,1040.32L286.978,1071.72L304.5,1079.48L320.901,1071.71L321.621,1040.83L289.579,1040.24L289.44,1068.6L304.375,1075.93L318.488,1068.62L319.147,1043.41L292.632,1043.2L292.475,1065.78L303.939,1071.66L316.421,1065.54L316.495,1045.82L295.911,1046.26L295.744,1062.96L303.532,1067.81L313.372,1062.9L314.171,1048.81L299.571,1049.29L298.814,1060.43L303.169,1063.09L310.414,1060.61L310.829,1051.07L302.111,1052.23L302.225,1056.97L303.569,1059.35L307.532,1058.32L307.771,1053.71L304.516,1054.61L304.744,1056.57" style="fill:none;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+    </g>
+</svg>

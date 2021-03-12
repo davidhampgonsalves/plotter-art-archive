@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M333.167,641.571C333.167,641.571 386.375,604.385 444.566,641.859C444.679,641.931 422.51,649.295 422.284,649.114C384.209,618.413 333.167,641.571 333.167,641.571Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <path d="M424.339,650.91L448.638,653.548L439.661,666.856L424.339,650.91Z" style="fill:none;stroke:black;stroke-width:1px;"/>
+    <g>
+        <path d="M304.126,230.408C304.126,230.408 462.08,384.755 467.633,778.416C471.532,1054.81 412.316,1383.7 302.216,1381.96C177.676,1380 139.913,981.338 141.429,775.935C144.181,403.094 304.126,230.408 304.126,230.408Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <g transform="matrix(1,0,0,1,-1.48643,741.342)">
+            <path d="M304.885,-509.136L303.929,638.564" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.62517,84.8334)">
+            <path d="M290,1266C290,1260.48 294.477,1256 300,1256C305.523,1256 310,1260.48 310,1266C310,1271.52 305.523,1276 300,1276C294.477,1276 290,1271.52 290,1266Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1.62517,84.8334)">
+            <path d="M292,1266C292,1261.58 295.582,1258 300,1258C304.418,1258 308,1261.58 308,1266C308,1270.42 304.418,1274 300,1274C295.582,1274 292,1270.42 292,1266Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+    </g>
+</svg>
